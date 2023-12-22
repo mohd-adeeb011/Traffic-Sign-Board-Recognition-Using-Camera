@@ -1,4 +1,4 @@
-# Traffic-Sign-Recognition-Using-YOLO
+# Traffic-Sign-Recognition-Using-Camera
 
 This repository contains a model and training notebook for traffic sign recognition. For inference, you’ll need to clone the YOLOv5 repository by Ultralytics and replace the detect.py file with the one in this repository.
 
@@ -13,6 +13,6 @@ The dataset used for training is [German Traffic Sign Recognition Benchmark (GTS
 
 ## Model
 
-Using and YOLOv5 for training and achieved >93% mAP on the dataset.
+Download the model using following link.
 
 Download the [model](https://mega.nz/file/rV4HDQ5b#UfgDAMlVHvfzSr7PquE8HWx_6jhRmDUGBS-qyfIn_oE)
