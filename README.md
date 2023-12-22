@@ -3,7 +3,7 @@
 This repository contains a model and training notebook for traffic sign recognition. For inference, you’ll need to clone the YOLOv5 repository by Ultralytics and replace the detect.py file with the one in this repository.
 
 ## How to run
-Open your IDE or shell in the projects's directory then write python detect.py --weights best_93.pt --source 0
+Open your IDE or shell in the projects's directory then write "python detect.py --weights best_93.pt --source 0".
 Source 0 is to take input from the webcam.
 
 ## Dataset
