@@ -13,6 +13,12 @@ The dataset used for training is [German Traffic Sign Recognition Benchmark (GTS
 
 ## Model
 
-Download the model using following link.
+Download the model using the following link.
 
 Download the [model](https://mega.nz/file/rV4HDQ5b#UfgDAMlVHvfzSr7PquE8HWx_6jhRmDUGBS-qyfIn_oE)
+
+## testimonials
+![4](https://github.com/mohd-adeeb011/Traffic-Sign-Board-Recognition-Using-Camera/assets/110835808/16f97f3b-efc9-4e8b-846d-e18c2ddf5d64)
+![6](https://github.com/mohd-adeeb011/Traffic-Sign-Board-Recognition-Using-Camera/assets/110835808/6803af95-b3dc-46b2-b64e-b39c4cbe2fb0)
+![9](https://github.com/mohd-adeeb011/Traffic-Sign-Board-Recognition-Using-Camera/assets/110835808/c9f7e8bd-00f9-4d80-97f3-c05d6b4ddbdb)
+
